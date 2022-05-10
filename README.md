@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bmpontes
 - 👀 I’m interested in a lot of things. 
 - 🌱 I’m currently learning python code.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/bernardo-pontes/
 
 <!---
