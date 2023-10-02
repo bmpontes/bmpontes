@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bernardo Pontes.
-- 👀 I’m interested in a lot of things. 
 - 🌱 I’m currently studying Computer Science and Computer Engineering in ISEL.
 - 📫 How to reach me: https://www.linkedin.com/in/bernardo-pontes/
 
